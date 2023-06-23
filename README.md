@@ -43,8 +43,8 @@
 
 <td width="50%" align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitRichieZhang&layout=donut-vertical)](https://github.com/gitRichieZhang/github-readme-stats)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitRichieZhang&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
   </td>
 </tr>
 </table>
