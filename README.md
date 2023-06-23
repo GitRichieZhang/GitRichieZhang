@@ -3,11 +3,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi! I'm Richie Zhang</h1> </summary>
-  </ul>
-</div>
+
+<h1 align="center"style="display: inline-block">Hi! I'm Richie Zhang</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Richie+Quan+Zhang,;IB+Diploma+Candidate+In+Canada,;Passionate+About+Computer+Science+,;3+Year+Programming+Experience,;TEDx+Organizer;Reach+Out+To+Me+Anytime!"><br>
@@ -17,11 +14,8 @@
 <!--- snake -->
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate About CS</h2></summary>
-  </ul>
-</div>
+<h2 align="center"style="display: inline-block">Passionate About CS</h2></summary>
+
 
 
 <!--Intro start-->
@@ -32,6 +26,8 @@
 - 🙇‍♂️ IB Diploma Candidate & High School Student (2023 – 2025)
   
 -  📫 Feel free to reach me out **rqzhang@gmail.com**
+
+  <br>
 <!--Intro end-->
 
 
@@ -63,9 +59,10 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Languages That I Know👨🏻‍💻</h2></summary>
+   <summary> <h2 style="display: inline-block">Languages That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
