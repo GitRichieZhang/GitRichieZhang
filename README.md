@@ -15,7 +15,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Passionate CS High School Student</h2></summary>
+    <summary><h2 style="display: inline-block">Passionate About CS</h2></summary>
   </ul>
 </div>
 
@@ -25,7 +25,7 @@
   
 - 🌟 Gold Division in USA Computing Olympiad
   
-- 🙇‍♂️ IB Diploma Candidate (2023 – 2025)
+- 🙇‍♂️ IB Diploma Candidate & High School Student (2023 – 2025)
   
 -  📫 Feel free to reach me out **rqzhang@gmail.com**
 <!--Intro end-->
