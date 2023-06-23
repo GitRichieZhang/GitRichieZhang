@@ -5,10 +5,14 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋 I'm Richie Zhang</h1></summary>
+    <summary><h1 style="display: inline-block">Hi! I'm Richie Zhang</h1> </summary>
   </ul>
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Richie+Quan+Zhang,;IB+Diploma+Candidate+In+Canada,;Passionate+About+Computer+Science+,;3+Year+Programming+Experience,;TEDx+Organizer;Reach+Out+To+Me+Anytime!"><br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+</p>
 
 <!--- snake -->
 
