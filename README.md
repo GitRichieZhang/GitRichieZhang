@@ -11,8 +11,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
 
-<!--- snake -->
-
 <!--h2 without bottom border-->
 <h2 align="center"style="display: inline-block">Passionate About CS</h2></summary>
 
