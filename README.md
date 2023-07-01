@@ -6,7 +6,6 @@
 <h1 align="center"style="display: inline-block">Hi! I'm Richie Zhang</h1>
 
 <p align="center">
-  
 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Two&duration=3000&pause=500&color=F7F7F7&size=25&center=true&vCenter=true&width=600&height=100&lines=Richie+Quan+Zhang,;IB+Diploma+Candidate+In+Canada,;Passionate+About+Computer+Science+,;3+Years+Programming+Experience,;TEDx+Organizer;Reach+Out+To+Me+Anytime!"><br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </p>
