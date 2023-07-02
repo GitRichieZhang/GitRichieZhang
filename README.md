@@ -22,7 +22,7 @@
   
 - 🙇‍♂ IB Diploma Candidate & High School Student (2023 – 2025)
   
--  📫 Feel free to reach me out **rqzhang@gmail.com**
+-  📫 Feel free to reach out to me at **rqzhang@gmail.com**
 
   <br>
 <!--Intro end-->
