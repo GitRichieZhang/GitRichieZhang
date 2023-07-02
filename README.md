@@ -20,7 +20,7 @@
   
 - 🌟 Gold Division in USA Computing Olympiad
   
-- 🙇‍♂️ IB Diploma Candidate & High School Student (2023 – 2025)
+- 🙇‍♂ IB Diploma Candidate & High School Student (2023 – 2025)
   
 -  📫 Feel free to reach me out **rqzhang@gmail.com**
 
