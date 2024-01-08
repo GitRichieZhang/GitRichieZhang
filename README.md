@@ -17,9 +17,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working/learning on **AWS, React, Ruby, and SwiftUI**
   
-- 🌟 Gold Division in USA Computing Olympiad
-  
-- 🙇‍♂ IB Diploma Candidate & High School Student (2023 – 2025)
+- 🌟 Platinum Division in USA Computing Olympiad
   
 -  📫 Feel free to reach out to me at **rqzhang@gmail.com**
 
